@@ -1,6 +1,8 @@
 Jandex Plugin for Apache Maven
 ==============================
 
+[![Maven Central](https://img.shields.io/maven-central/v/org.jboss.jandex/jandex-maven-plugin.svg?label=Maven%20Central)](http://search.maven.org/artifact/org.jboss.jandex/jandex-maven-plugin)
+
 Full documentation can be found at: [http://wildfly.github.io/jandex-maven-plugin](http://wildfly.github.io/jandex-maven-plugin)
 
 Basic Usage
